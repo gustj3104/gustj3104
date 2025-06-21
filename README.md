@@ -4,12 +4,13 @@
 ## 👋 Hi there, I'm Hyeonseo
 
 -  I'm currently learning Spring Framework  
--  I want to become a backend developer  
+-  I want to become a backend developer
+-  
 </br>
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,react,python,java,c,spring,git,github,figma,docker&theme=light)
+![Languages](https://skillicons.dev/icons?i=html,css,js,react,python,java,c,spring,git,docker&theme=dark)
 
 </br>
 
@@ -49,8 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustj3104&layout=compact&theme=default" />
   
 </div>
-
-
 
 ---
 
