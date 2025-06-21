@@ -3,29 +3,44 @@
 
 ## 👋 Hi there, I'm Hyeonseo
 
-- 🌱 I'm currently learning Spring Framework  
-- 💻 I want to become a backend developer  
-- ✨ I enjoy building services that are useful and meaningful
+-  I'm currently learning Spring Framework  
+-  I want to become a backend developer  
+- 
 
 </br>
 
-## 💫 Experience
+## 💫 Project
 
-| 프로젝트명 | 기간 | 사용기술 | 역할 및 기여 |
-|------------|------|-----------|----------------|
-| **스노로즈** | 2025.02 ~ 진행 중 | Spring Boot | 백엔드 유지보수 및 관리자 기능/이벤트 페이지 개발, 프론트 API 리팩토링 |
-| **OUTFOOT** | - | Spring Boot | 인장판 CRUD 및 친구 추가 API 개발 |
-| **베프: 베리어프롬** | 2024.06.28 ~ 2024.09.06 | React Native | 프론트엔드 80% 구현, API 연동, 와이어프레임 설계 참여 |
-| **LIFAMILY** | 2024.10 | Python (데이터 분석) | 이중 부양자 고객군 정의, 지표 필드 설계, 모델링 및 구현 |
-| **냉장고를 부탁해** | 2024.11.02 ~ 2024.11.03 | Spring Boot | AWS S3 이미지 업로드 포함 '재료 보기' 기능 구현 |
-| **시음회 재방문자 트래커** | - | React | 개인 프로젝트, 재방문 통계 시각화 기능 개발 |
-| **나만의 운동일지** | - | HTML, JS, CSS | 개인 프로젝트, 운동 기록 다이어리 기능 구현 |
+| Project | Period | Stack |
+|---------|--------|------------|
+| **스노로즈** | 2025.02 ~ | Spring Boot |
+| **시음회 재방문자 트래커** | 2025.02.09 ~ 2025.02.18 | React |
+| **냉장고를 부탁해** | 2024.11.02 ~ 2024.11.03 | Spring Boot |
+| **LIFAMILY** | 2024.10 | Python |
+| **베프: 베리어프롬** | 2024.06.28 ~ 2024.09.06 | React Native |
+| **OUTFOOT** | 2024. | Spring Boot |
+| **나만의 운동일지** | 2023.09 ~ 2024.01 | HTML, JS, CSS |
+
+</br>
+
+## 💡 Experience
+Mar 2023 – Dec 2024: 10th member of APPS Club, Sookmyung Women’s University
+
+Sep 2024 – Nov 2024: Participated in WEMEET Project Mentoring
+
+Jun 2024 – Sep 2024: 3rd place winner, SWITCH Competition
+
+Oct 7, 2024: Participated in Shinhan Big Data Hackathon
+
+Nov 2, 2024: Participated in UNIDTHON
+
+Feb 2025 – Present: Backend Developer, Snowrose Project Team
 
 </br>
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,react,python,java,c,spring,git,github,figma&theme=light)
+![Languages](https://skillicons.dev/icons?i=html,css,js,react,python,java,c,spring,git,github,figma,docker&theme=light)
 
 </br>
 
@@ -37,7 +52,3 @@
 
 ---
 
-<!-- 방문자 수 뱃지 (선택 사항) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustj3104&label=Profile%20views&color=0e75b6&style=flat" alt="gustj3104" />
-</p>
