@@ -1,19 +1,4 @@
 <!-- CONTACT SECTION -->
-<table>
-  <tr>
-    <td>📧 Email</td>
-    <td>gustj3104@gmail.com</td>
-  </tr>
-  <tr>
-    <td>🌐 Portfolio</td>
-    <td><a href="https://your-portfolio-link.com" target="_blank">https://your-portfolio-link.com</a></td>
-  </tr>
-  <tr>
-    <td>📍 Location</td>
-    <td>Seoul, Korea</td>
-  </tr>
-</table>
-
 ---
 
 ## 👋 Hi there, I'm Hyeonseo
