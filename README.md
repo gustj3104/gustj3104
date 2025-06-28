@@ -1,7 +1,7 @@
 <!-- CONTACT SECTION -->
 ---
 
-## 👋 Hi there, I'm Hyeonseo
+## 👋 Hi, I'm Hyeonseo
 
 -  I'm currently learning Spring Framework  
 -  I want to become a backend developer
