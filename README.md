@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,react,python,java,c,spring,git,docker&theme=dark)
+![Languages](https://skillicons.dev/icons?i=js,react,python,java,c,spring,docker&theme=dark)
 
 </br>
 
