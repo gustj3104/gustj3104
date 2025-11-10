@@ -8,12 +8,6 @@
   
 </br>
 
-## 🛠️ Tech Stack
-
-![Languages](https://skillicons.dev/icons?i=js,react,python,java,c,spring,docker&theme=dark)
-
-</br>
-
 ## 💫 Project
 | Date | Project | Stack |
 |------|---------|--------|
@@ -43,13 +37,6 @@
 - Participant | UNIDTHON | Nov 2, 2024
 
 </br>
-
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustj3104&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustj3104&layout=compact&theme=default" />
-  
 </div>
 
 ---
